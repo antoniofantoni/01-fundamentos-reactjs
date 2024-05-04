@@ -14,7 +14,7 @@ export function App() {
         <Sidebar />
         <main>
           <Post
-            author="Antonio"
+            author="Antonio Fantoni"
             content="Lorem ipsdo, sit amet consectetur  elSu,xime."
           />
 
