@@ -6,11 +6,12 @@ export function Header() {
   return (
     <div>
       <header className={styles.header}>
-				
-        <img src={igniteLogo} alt="Logotipo do ignite" />
+				        <img src={igniteLogo} alt="Logotipo do ignite" />
 				<strong>Ignite feed</strong>
 			
       </header>
     </div>
   );
 }
+
+
