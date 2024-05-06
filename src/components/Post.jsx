@@ -4,7 +4,9 @@ export function Post() {
   return (
     <article className={styles.post}>
       <header>
-        
+        <div className={styles.author} >
+
+        </div>
       </header>
     </article>
   );
