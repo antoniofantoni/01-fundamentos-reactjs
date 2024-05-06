@@ -5,7 +5,6 @@ import { Sidebar } from "./components/Sidebar";
 import "../src/global.css";
 import styles from "./App.module.css";
 
-
 export function App() {
   return (
     <div>
@@ -18,8 +17,6 @@ export function App() {
             author="Antonio Fantoni"
             content="Lorem ipsdo, sit amet consectetur  elSu,xime."
           />
-
-         
         </main>
       </div>
     </div>
