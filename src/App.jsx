@@ -1,9 +1,10 @@
-import { Post } from "./Post";
+import { Post } from "./components/Post";
 import { Header } from "./components/Header";
+import { Sidebar } from "./components/Sidebar";
 
 import "../src/global.css";
 import styles from "./App.module.css";
-import { Sidebar } from "./components/Sidebar";
+
 
 export function App() {
   return (
@@ -18,7 +19,7 @@ export function App() {
             content="Lorem ipsdo, sit amet consectetur  elSu,xime."
           />
 
-          <Post author="Jorge Amado" content="Lorem ipsum dolor, sit." />
+         
         </main>
       </div>
     </div>
